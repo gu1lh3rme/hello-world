@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+The cars are like boats, motorcycles are like jet skis 
